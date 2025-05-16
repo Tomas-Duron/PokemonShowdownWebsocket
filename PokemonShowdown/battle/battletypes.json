@@ -1,0 +1,276 @@
+[
+  {
+    "category": "S/V Singles",
+    "formats": [
+      "[Gen 9] Random Battle,f",
+      "[Gen 9] Unrated Random Battle,b",
+      "[Gen 9] Free-For-All Random Battle,7",
+      "[Gen 9] Random Battle (Blitz),f",
+      "[Gen 9] Multi Random Battle,5",
+      "[Gen 9] OU,e",
+      "[Gen 9] Ubers,e",
+      "[Gen 9] UU,e",
+      "[Gen 9] RU,e",
+      "[Gen 9] NU,e",
+      "[Gen 9] PU,e",
+      "[Gen 9] LC,e",
+      "[Gen 9] Monotype,e",
+      "[Gen 9] CAP,e",
+      "[Gen 9] BSS Reg G,5c",
+      "[Gen 9] BSS Reg I,5e",
+      "[Gen 9] Custom Game,c"
+    ]
+  },
+  {
+    "category": "S/V Doubles",
+    "formats": [
+      "[Gen 9] Random Doubles Battle,f",
+      "[Gen 9] Doubles OU,e",
+      "[Gen 9] Doubles Ubers,e",
+      "[Gen 9] Doubles UU,e",
+      "[Gen 9] Doubles LC,c",
+      "[Gen 9] VGC 2023 Reg D,5c",
+      "[Gen 9] VGC 2024 Reg G,5c",
+      "[Gen 9] VGC 2025 Reg I,5e",
+      "[Gen 9] VGC 2025 Reg I (Bo3),1e",
+      "[Gen 9] Doubles Custom Game,c"
+    ]
+  },
+  {
+    "category": "Unofficial Metagames",
+    "formats": [
+      "[Gen 9] 1v1,e",
+      "[Gen 9] 2v2 Doubles,e",
+      "[Gen 9] Anything Goes,e",
+      "[Gen 9] Ubers UU,e",
+      "[Gen 9] ZU,e",
+      "[Gen 9] Free-For-All,6",
+      "[Gen 9] LC UU,c",
+      "[Gen 9] NFE,c"
+    ]
+  },
+  {
+    "category": "Pet Mods",
+    "formats": [
+      "[Gen 9] Bad 'n Boosted,e",
+      "[Gen 9] CCAPM 2024 Random Battle,d"
+    ]
+  },
+  {
+    "category": "Draft",
+    "formats": [
+      "[Gen 9] Draft,8c",
+      "[Gen 9] 6v6 Doubles Draft,8c",
+      "[Gen 9] 4v4 Doubles Draft,dc",
+      "[Gen 9] NatDex Draft,8c",
+      "[Gen 9] NatDex 6v6 Doubles Draft,8c",
+      "[Gen 9] NatDex LC Draft,8c",
+      "[Gen 8] Galar Dex Draft,c",
+      "[Gen 8] NatDex Draft,c",
+      "[Gen 8] NatDex 4v4 Doubles Draft,1c",
+      "[Gen 7] Draft,c",
+      "[Gen 6] Draft,c",
+      "[Gen 5] Draft,c",
+      "[Gen 4] Draft,c",
+      "[Gen 3] Draft,c"
+    ]
+  },
+  {
+    "category": "OM of the Month",
+    "formats": [
+      "[Gen 9] Trademarked,e",
+      "[Gen 9] Partners in Crime,e"
+    ]
+  },
+  {
+    "category": "Other Metagames",
+    "formats": [
+      "[Gen 9] Almost Any Ability,e",
+      "[Gen 9] Balanced Hackmons,e",
+      "[Gen 9] Godly Gift,e",
+      "[Gen 9] Mix and Mega,e",
+      "[Gen 9] Shared Power,e",
+      "[Gen 9] STABmons,e",
+      "[Gen 7] Pure Hackmons,e"
+    ]
+  },
+  {
+    "category": "Challengeable OMs",
+    "formats": [
+      "[Gen 9] 1-2 Switch,c",
+      "[Gen 9] 350 Cup,c",
+      "[Gen 9] Alphabet Cup,c",
+      "[Gen 9] Camomons,c",
+      "[Gen 9] Category Swap,c",
+      "[Gen 9] Convergence,c",
+      "[Gen 9] Cross Evolution,c",
+      "[Gen 9] Fervent Impersonation,c",
+      "[Gen 9] Foresighters,c",
+      "[Gen 9] Formemons,c",
+      "[Gen 9] Fortemons,c",
+      "[Gen 9] Frantic Fusions,c",
+      "[Gen 9] Full Potential,c",
+      "[Gen 9] Inheritance,c",
+      "[Gen 9] Inverse,c",
+      "[Gen 9] Nature Swap,c",
+      "[Gen 9] Passive Aggressive,c",
+      "[Gen 9] Pokebilities,c",
+      "[Gen 9] Pokemoves,c",
+      "[Gen 9] Pure Hackmons,c",
+      "[Gen 9] Relay Race,c",
+      "[Gen 9] Revelationmons,c",
+      "[Gen 9] Sharing is Caring,c",
+      "[Gen 9] Tera Donation,c",
+      "[Gen 9] The Card Game,c",
+      "[Gen 9] The Loser's Game,c",
+      "[Gen 9] Triples,c",
+      "[Gen 9] Type Split,c",
+      "[Gen 6] Pure Hackmons,c"
+    ]
+  },
+  {
+    "category": "National Dex",
+    "formats": [
+      "[Gen 9] National Dex,e",
+      "[Gen 8] National Dex,e"
+    ]
+  },
+  {
+    "category": "National Dex Other Tiers",
+    "formats": [
+      "[Gen 9] National Dex 35 Pokes,c",
+      "[Gen 9] National Dex Ubers,e",
+      "[Gen 9] National Dex UU,e",
+      "[Gen 9] National Dex RU,c",
+      "[Gen 9] National Dex LC,c",
+      "[Gen 9] National Dex Monotype,e",
+      "[Gen 9] National Dex Doubles,e",
+      "[Gen 9] National Dex Doubles Ubers,c",
+      "[Gen 9] National Dex Ubers UU,c",
+      "[Gen 9] National Dex AG,c",
+      "[Gen 9] National Dex AAA,c",
+      "[Gen 9] National Dex BH,c",
+      "[Gen 9] National Dex Godly Gift,c",
+      "[Gen 9] National Dex STABmons,e",
+      "[Gen 8] National Dex UU,c",
+      "[Gen 8] National Dex Monotype,c"
+    ]
+  },
+  {
+    "category": "Randomized Format Spotlight",
+    "formats": [
+      "[Gen 9] Partners in Crime Random Battle (6 Moves),f"
+    ]
+  },
+  {
+    "category": "Randomized Metas",
+    "formats": [
+      "[Gen 9] Random Roulette,f",
+      "[Gen 9] Monkey's Paw Random Battle,f",
+      "[Gen 9] Super Staff Bros Ultimate,f",
+      "[Gen 9] Monotype Random Battle,f",
+      "[Gen 9] Random Battle (Shared Power, B12P6),f",
+      "[Gen 9] Random Battle Mayhem,f",
+      "[Gen 9] Battle Factory,f",
+      "[Gen 9] BSS Factory,1f",
+      "[Gen 9] Draft Factory,f",
+      "[Gen 9] Baby Random Battle,f",
+      "[Gen 9] Computer-Generated Teams,f",
+      "[Gen 9] Hackmons Cup,f",
+      "[Gen 9] Doubles Hackmons Cup,d",
+      "[Gen 9] Broken Cup,f",
+      "[Gen 9] Challenge Cup 1v1,f",
+      "[Gen 9] Challenge Cup 2v2,f",
+      "[Gen 9] Challenge Cup 6v6,d",
+      "[Gen 9] Metronome Battle,e",
+      "[Gen 8] Random Battle,f",
+      "[Gen 8] Random Doubles Battle,d",
+      "[Gen 8] Free-For-All Random Battle,5",
+      "[Gen 8] Multi Random Battle,5",
+      "[Gen 8] Battle Factory,d",
+      "[Gen 8] BSS Factory,1d",
+      "[Gen 8] Hackmons Cup,d",
+      "[Gen 8] CAP 1v1,d",
+      "[Gen 8 BDSP] Random Battle,d",
+      "[Gen 7] Random Battle,f",
+      "[Gen 7] Battle Factory,d",
+      "[Gen 7] BSS Factory,1d",
+      "[Gen 7] Hackmons Cup,9",
+      "[Gen 7 Let's Go] Random Battle,d",
+      "[Gen 6] Random Battle,f",
+      "[Gen 6] Battle Factory,9",
+      "[Gen 5] Random Battle,f",
+      "[Gen 4] Random Battle,f",
+      "[Gen 3] Random Battle,f",
+      "[Gen 2] Random Battle,f",
+      "[Gen 1] Random Battle,f",
+      "[Gen 1] Challenge Cup,9",
+      "[Gen 1] Hackmons Cup,9"
+    ]
+  },
+  {
+    "category": "RoA Spotlight",
+    "formats": [
+      "[Gen 2] UU,e",
+      "[Gen 1] LC,e",
+      "[Gen 3] ADV 200,e"
+    ]
+  },
+  {
+    "category": "Past Gens OU",
+    "formats": [
+      "[Gen 8] OU,e",
+      "[Gen 7] OU,e",
+      "[Gen 6] OU,e",
+      "[Gen 5] OU,e",
+      "[Gen 4] OU,e",
+      "[Gen 3] OU,e",
+      "[Gen 2] OU,e",
+      "[Gen 1] OU,e"
+    ]
+  },
+  {
+    "category": "Past Gens Doubles OU",
+    "formats": [
+      "[Gen 8] Doubles OU,e",
+      "[Gen 7] Doubles OU,e",
+      "[Gen 6] Doubles OU,e",
+      "[Gen 5] Doubles OU,c",
+      "[Gen 4] Doubles OU,c",
+      "[Gen 3] Doubles OU,c"
+    ]
+  },
+  {
+    "category": "Sw/Sh Singles",
+    "formats": [
+      "[Gen 8] Ubers,c",
+      "[Gen 8] UU,c",
+      "[Gen 8] RU,c",
+      "[Gen 8] NU,c",
+      "[Gen 8] PU,c",
+      "[Gen 8] LC,c",
+      "[Gen 8] Monotype,c",
+      "[Gen 8] 1v1,c",
+      "[Gen 8] Anything Goes,c",
+      "[Gen 8] ZU,c",
+      "[Gen 8] CAP,c",
+      "[Gen 8] Battle Stadium Singles,5c",
+      "[Gen 8 BDSP] OU,c",
+      "[Gen 8 BDSP] Ubers,c",
+      "[Gen 8] Custom Game,c"
+    ]
+  },
+  {
+    "category": "Sw/Sh Doubles",
+    "formats": [
+      "[Gen 8] Doubles Ubers,c",
+      "[Gen 8] Doubles UU,c",
+      "[Gen 8] VGC 2022,5c",
+      "[Gen 8] VGC 2021,5c",
+      "[Gen 8] VGC 2020,5c",
+      "[Gen 8 BDSP] Doubles OU,c",
+      "[Gen 8 BDSP] Battle Festival Doubles,1c",
+      "[Gen 8] Doubles Custom Game,c"
+    ]
+  }
+]

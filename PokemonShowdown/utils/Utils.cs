@@ -4,7 +4,7 @@ using System.IO;
 
 namespace PokemonShowdown.Utils
 {
-    public static class Utils
+    public static class Util
     {
         public static Dictionary<String, String> ReadJsonFile(string filePath)
         {

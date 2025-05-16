@@ -1,0 +1,94 @@
+{
+  "types": [
+    {
+      "type": "Normal",
+      "weaknesses": [ "Fighting" ],
+      "strengths": []
+    },
+    {
+      "type": "Fire",
+      "weaknesses": [ "Water", "Ground", "Rock" ],
+      "strengths": [ "Grass", "Ice", "Bug", "Steel" ]
+    },
+    {
+      "type": "Water",
+      "weaknesses": [ "Electric", "Grass" ],
+      "strengths": [ "Fire", "Ground", "Rock" ]
+    },
+    {
+      "type": "Electric",
+      "weaknesses": [ "Ground" ],
+      "strengths": [ "Water", "Flying" ]
+    },
+    {
+      "type": "Grass",
+      "weaknesses": [ "Fire", "Ice", "Poison", "Flying", "Bug" ],
+      "strengths": [ "Water", "Ground", "Rock" ]
+    },
+    {
+      "type": "Ice",
+      "weaknesses": [ "Fire", "Fighting", "Rock", "Steel" ],
+      "strengths": [ "Dragon", "Flying", "Ground", "Grass" ]
+    },
+    {
+      "type": "Fighting",
+      "weaknesses": [ "Flying", "Psychic", "Fairy" ],
+      "strengths": [ "Normal", "Rock", "Steel", "Ice", "Dark" ]
+    },
+    {
+      "type": "Poison",
+      "weaknesses": [ "Ground", "Psychic" ],
+      "strengths": [ "Grass", "Fairy" ]
+    },
+    {
+      "type": "Ground",
+      "weaknesses": [ "Water", "Ice", "Grass" ],
+      "strengths": [ "Fire", "Electric", "Poison", "Rock", "Steel" ]
+    },
+    {
+      "type": "Flying",
+      "weaknesses": [ "Electric", "Ice", "Rock" ],
+      "strengths": [ "Fighting", "Bug", "Grass" ]
+    },
+    {
+      "type": "Psychic",
+      "weaknesses": [ "Bug", "Ghost", "Dark" ],
+      "strengths": [ "Fighting", "Poison" ]
+    },
+    {
+      "type": "Bug",
+      "weaknesses": [ "Fire", "Flying", "Rock" ],
+      "strengths": [ "Psychic", "Ghost", "Dark" ]
+    },
+    {
+      "type": "Rock",
+      "weaknesses": [ "Water", "Grass", "Fighting", "Ground", "Steel" ],
+      "strengths": [ "Fire", "Ice", "Flying", "Bug" ]
+    },
+    {
+      "type": "Ghost",
+      "weaknesses": [ "Ghost", "Dark" ],
+      "strengths": [ "Psychic", "Ghost" ]
+    },
+    {
+      "type": "Dragon",
+      "weaknesses": [ "Ice", "Dragon", "Fairy" ],
+      "strengths": [ "Dragon" ]
+    },
+    {
+      "type": "Dark",
+      "weaknesses": [ "Fighting", "Bug", "Fairy" ],
+      "strengths": [ "Psychic", "Ghost" ]
+    },
+    {
+      "type": "Steel",
+      "weaknesses": [ "Fire", "Fighting", "Ground" ],
+      "strengths": [ "Ice", "Rock", "Fairy" ]
+    },
+    {
+      "type": "Fairy",
+      "weaknesses": [ "Steel", "Poison" ],
+      "strengths": [ "Dragon", "Dark", "Fighting" ]
+    }
+  ]
+}

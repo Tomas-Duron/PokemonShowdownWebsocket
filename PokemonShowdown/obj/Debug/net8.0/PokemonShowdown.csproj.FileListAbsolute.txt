@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\bin\Debug\net8.0\PokemonShowdown.exe
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\bin\Debug\net8.0\PokemonShowdown.deps.json
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\bin\Debug\net8.0\PokemonShowdown.runtimeconfig.json
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\bin\Debug\net8.0\PokemonShowdown.dll
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\bin\Debug\net8.0\PokemonShowdown.pdb
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\obj\Debug\net8.0\PokemonShowdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\obj\Debug\net8.0\PokemonShowdown.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\obj\Debug\net8.0\PokemonShowdown.AssemblyInfo.cs
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\obj\Debug\net8.0\PokemonShowdown.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\obj\Debug\net8.0\PokemonShowdown.dll
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\obj\Debug\net8.0\refint\PokemonShowdown.dll
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\obj\Debug\net8.0\PokemonShowdown.pdb
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\obj\Debug\net8.0\PokemonShowdown.genruntimeconfig.cache
+C:\Users\Student\Desktop\New folder\pkmon\PokemonShowdownWebsocket-master\PokemonShowdownWebsocket-master\PokemonShowdown\obj\Debug\net8.0\ref\PokemonShowdown.dll
